@@ -1,0 +1,50 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    color: goldenrod;
+}
+
+
+
+
+
+.links{
+    display: flex;
+   
+    justify-content: space-around;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    padding: 30px;
+    color: white;
+}
+
+.caja
+ {
+    height: 300px;
+    width: auto;
+    border: 1px solid;
+    gap: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h2 {color: black;} p {color: black;}
+
+h3 {
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    padding: 30px;
+    color: white;
+}
+
+p {
+    gap: 10px;
+    padding: 40px;
+}
+
+
